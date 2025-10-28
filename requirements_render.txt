@@ -1,5 +1,5 @@
 Django==4.2
-pillow==9.5.0      # versión estable precompilada
-numpy==1.25.2      # versión que tiene ruedas precompiladas
-pandas==2.2.0      # compatible con numpy 1.25
-matplotlib==3.7.2  # versión estable precompilada
+pillow==9.4.0      # versión compatible con Python 3.13 y que tiene ruedas
+numpy==1.25.2
+pandas==2.2.0
+
